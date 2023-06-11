@@ -45,6 +45,7 @@ print()
 
 # The following restaurants will only call the describe_restaurant method
 # to fill out the info
+# here starts second version of Restaurant oop
 
 
 restaurant3 = Restaurant('Asado Argento', 'Argentina!')
