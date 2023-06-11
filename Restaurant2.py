@@ -31,16 +31,12 @@ print("This restaurant's name is " + restaurant.restaurant_name + ".")
 print("This restaurant serves " + str(restaurant.cuisine_type) + ' food')
 restaurant.open_restaurant()
 
-print()
-
 
 restaurant2 = Restaurant("Rup's Kitchen", 'Indian')
 
 print("This other restaurant is called " + restaurant2.restaurant_name + ".")
 print("They serve " + str(restaurant2.cuisine_type) + " food. ")
 restaurant.close_restaurant()
-
-print()
 
 # The following restaurants will only call the describe_restaurant method
 # to fill out the info
@@ -49,14 +45,23 @@ print()
 restaurant3 = Restaurant('Asado Argento', 'Argentina!')
 restaurant3.describe_restaurant()
 
-print()
-
 restaurant4 = Restaurant('Ye olde Americana', 'American')
 restaurant4.describe_restaurant()
-
-print()
 
 restaurant5 = Restaurant('The Great Wall', 'Chinese')
 restaurant5.describe_restaurant()
 
-print()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
