@@ -46,18 +46,3 @@ print()
 print("This other restaurant is called " + restaurant2.restaurant_name + ".")
 print("They serve " + str(restaurant2.cuisine_type) + " food. ")
 restaurant.close_restaurant()
-
-# This is the first version
-
-
-
-
-
-
-
-
-
-
-
-
-
