@@ -2,9 +2,7 @@ theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',
             'mid-L' : ' ', 'mid-M': ' ', 'mid-R': ' ',
             'low-L': ' ', 'low-M': ' ', 'low-R': ' '}
 
-# This is the empty Tic Tac Toe board, as per Chapter 5.
-
-# The following code was added in later, we create a function to print the board dictionary onto the screen.
+# This is the empty Tic Tac Toe board
 
 
 
