@@ -13,4 +13,3 @@ while n != 1:
     print(n)
 
 # This version shortens the argument "number" to just "n".
-# It's a "cleaner" version created on my phone, using pydroid.
